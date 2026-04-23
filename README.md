@@ -1,5 +1,10 @@
 # Jamf Log Grabber
 
+# Copyright 2026, Jamf Software LLC
+
+# This work is licensed under the terms of the Jamf Source Available License:
+# https://github.com/jamf/scripts/blob/main/LICENCE.md
+
 > [!CAUTION]
 > This script is not intended for using to attach logs to a device record in Jamf Pro. Do not utilize such a workflow as it can lead to severe server performance issues.
 
